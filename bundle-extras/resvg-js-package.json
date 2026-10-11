@@ -1,0 +1,1 @@
+{ "name": "@resvg/resvg-js", "version": "0.0.0-android-shim", "main": "index.js", "description": "Adapter: gives the bot the resvg-js API using the WebAssembly build (no native code on Android)." }
